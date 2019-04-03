@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Select\obj\Debug\Connected_Select.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Select\obj\Debug\Connected_Select.Form1.resources
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Select\obj\Debug\Connected_Select.Properties.Resources.resources
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Select\obj\Debug\Connected_Select.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Select\obj\Debug\Connected_Select.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Select\bin\Debug\Connected_Select.exe.config
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Select\bin\Debug\Connected_Select.exe
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Select\bin\Debug\Connected_Select.pdb
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Select\obj\Debug\Connected_Select.exe
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Select\obj\Debug\Connected_Select.pdb

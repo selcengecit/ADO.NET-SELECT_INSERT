@@ -1,0 +1,10 @@
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Insert\bin\Debug\Connected_Insert.exe.config
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Insert\bin\Debug\Connected_Insert.exe
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Insert\bin\Debug\Connected_Insert.pdb
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Insert\obj\Debug\Connected_Insert.csprojResolveAssemblyReference.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Insert\obj\Debug\Connected_Insert.Form1.resources
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Insert\obj\Debug\Connected_Insert.Properties.Resources.resources
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Insert\obj\Debug\Connected_Insert.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Insert\obj\Debug\Connected_Insert.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Insert\obj\Debug\Connected_Insert.exe
+C:\Users\Section2\source\repos\NT_ADO.Net_3\Connected_Insert\obj\Debug\Connected_Insert.pdb
